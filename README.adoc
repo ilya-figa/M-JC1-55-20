@@ -15,7 +15,7 @@ The material for the group M-JC1-55-20
 == Занятия
 
 |===
-|№|Theme|Date
-|1|Введение|24.09.2020
-|2|Типы данных. Переменные. Операторы|26.09.2020
+|№|Theme|Date|Homework
+|1|Введение|24.09.2020|Tasks from workbook
+|2|Типы данных. Переменные. Операторы|26.09.2020|link:https://github.com/rakovets/course-java-basics/tree/operators[branch: operators]
 |===
