@@ -18,4 +18,5 @@ The material for the group M-JC1-55-20
 |№|Theme|Date|Homework
 |1|Введение|24.09.2020|Tasks from workbook
 |2|Типы данных. Переменные. Операторы|26.09.2020|link:https://github.com/rakovets/course-java-basics/tree/operators[branch: operators]
+|3|Методы. Операторы if/switch|01.10.2020|link:https://github.com/rakovets/course-java-basics/tree/methods[branch: methods], link:https://github.com/rakovets/course-java-basics/tree/conditional-statements[branch: conditional-statements]
 |===
