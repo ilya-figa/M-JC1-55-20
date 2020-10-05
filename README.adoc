@@ -20,4 +20,6 @@ The material for the group M-JC1-55-20
 |2|Типы данных. Переменные. Операторы|26.09.2020|link:https://github.com/rakovets/course-java-basics/tree/operators[branch: operators]|link:https://forms.gle/5wDwXhgScm7JVt668[data-types]|01.10.2020
 |3|Методы. Операторы if/switch|01.10.2020|link:https://github.com/rakovets/course-java-basics/tree/methods[branch: methods], link:https://github.com/rakovets/course-java-basics/tree/conditional-statements[branch: conditional-statements]|-|08.10.2020
 |4|Циклы|03.10.2020|link:https://github.com/rakovets/course-java-basics/tree/loops[branch: loops]|-|08.10.2020
+|5|Массивы|08.10.2020|link:https://github.com/rakovets/course-java-basics/tree/arrays[branch: arrays]|-|15.10.2020
+|6|Классы и объекты|10.10.2020|link:https://github.com/rakovets/course-java-basics/tree/oop-classes-and-objects[branch: oop-classes-and-objects]|-|15.10.2020
 |===
