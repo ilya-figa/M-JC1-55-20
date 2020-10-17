@@ -25,4 +25,6 @@ The material for the group M-JC1-55-20
 |6|Классы и объекты|10.10.2020|link:https://github.com/rakovets/course-java-basics/tree/oop-classes-and-objects[branch: oop-classes-and-objects]|-|15.10.2020
 |7|Строки и регулярные выражения|15.10.2020|link:https://github.com/rakovets/course-java-basics/tree/strings[branch: strings]|-|22.10.2020
 |8|Наследование и полиморфизм. Внутренние и анонимные классы|17.10.2020|link:https://github.com/rakovets/course-java-basics/tree/oop-inheritance-and-polymorphism[branch: oop-inheritance-and-polymorphism]|-|22.10.2020
+|9|Дженерики. Перечисляемые типы|22.10.2020|link:https://github.com/rakovets/course-java-basics/tree/generics[branch: generics]|-|29.10.2020
+|10|Коллекции. List, Set, Map|24.10.2020|link:https://github.com/rakovets/course-java-basics/tree/collections[branch: collections]|-|29.10.2020
 |===
